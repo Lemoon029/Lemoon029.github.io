@@ -179,10 +179,6 @@ color: #007b00;
     cursor: pointer;
     color: #333;
 }
-
-/* TO DO
-add the sticky nav bars */
-
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-links {
